@@ -1,0 +1,34 @@
+.jumbotron {
+  padding-top: 7%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 7%;
+  background-image: url("img/back.jpg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+#mapping {
+  background-color: #020c;
+}
+
+#about {
+  background-color: #A9A9A9;
+}
+
+#projects {
+  background-color: #A9A9A9;
+}
+
+#contact {
+  background-color: #020c;
+  color: white;
+}
+section {
+  padding-top: 10%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 10%;
+}
