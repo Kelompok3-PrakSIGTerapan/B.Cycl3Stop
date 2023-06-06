@@ -11,20 +11,35 @@
 }
 
 #mapping {
-  background-color: #020c;
+  background-image: url("img/back5.jpg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
 }
 
 #about {
-  background-color: #A9A9A9;
+  background-image: url("img/back2.jpg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
 }
 
 #projects {
-  background-color: #A9A9A9;
+  background-image: url("img/back4.jpg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
 }
 
 #contact {
-  background-color: #020c;
-  color: white;
+  background-image: url("img/back3.jpg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
 }
 section {
   padding-top: 10%;
